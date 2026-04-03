@@ -83,7 +83,7 @@ cv:
       - name: Machine Learning
         level: Expert
         icon: fa-solid fa-brain
-        keywords: "PyTorch, TensorRT, Reinforcement Learning, Deep Learning, Vision-Language Models"
+        keywords: "PyTorch, TensorRT, Reinforcement Learning, Deep Learning, Vision-Language Models (VLM)"
 
       - name: Robotics
         level: Expert
@@ -93,7 +93,7 @@ cv:
       - name: Programming
         level: Expert
         icon: fa-solid fa-code
-        keywords: "Python, C++, CUDA, Bash"
+        keywords: "Python, C++, Bash"
 
     Languages:
       - name: Spanish
