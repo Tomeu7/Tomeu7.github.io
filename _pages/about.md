@@ -2,15 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher · <a href="https://www.iiia.csic.es/">IIIA-CSIC</a> · <a href="https://www.eada.edu/">EADA Business School</a>
+subtitle: Research Scientist · <a href="https://www.iiia.csic.es/">IIIA-CSIC</a> · Associate Professor of Robotics & IoT
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Bellaterra, Barcelona, Spain</p>
+    <p>Barcelona, Spain</p>
     <p>tom_93_mot@hotmail.com</p>
+    <p><a href="https://orcid.org/0000-0001-8634-2316">ORCID</a> · <a href="https://scholar.google.com/citations?user=dYJC0tQAAAAJ">Google Scholar</a></p>
 
 selected_papers: true
 social: true
@@ -32,4 +33,4 @@ Previously, during my PhD, I developed reinforcement learning agents for real-ti
 
 **Research interests:** Reinforcement Learning · Social Robotics · Computer Vision · Vision-Language Models · Real-Time Control · Human-Robot Interaction
 
-**Google Scholar:** 150+ citations · h-index: 5 · i10-index: 4
+**Google Scholar:** [scholar.google.com](https://scholar.google.com/citations?user=dYJC0tQAAAAJ)
