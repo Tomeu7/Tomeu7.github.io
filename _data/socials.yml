@@ -1,6 +1,9 @@
 # Social media links and usernames
 cv_pdf: /assets/pdf/cv_bartomeu.pdf
 email: tom_93_mot@hotmail.com
-orcid: 0000-0001-8634-2316
 scholar_userid: dYJC0tQAAAAJ
 github_username: Tomeu7
+custom_social:
+  logo: https://orcid.org/sites/default/files/images/orcid_16x16.png
+  title: ORCID
+  url: https://orcid.org/0000-0001-8634-2316
