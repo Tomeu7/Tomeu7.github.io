@@ -1,6 +1,6 @@
 cv:
   name: Bartomeu Pou
-  label: Researcher in AI, Robotics & Adaptive Optics
+  label: Research Scientist in AI, Robotics & Adaptive Optics
   email: tom_93_mot@hotmail.com
   location: Bellaterra, Barcelona, Spain
   image: ""
@@ -54,8 +54,8 @@ cv:
         summary: Teaching robotics and Internet of Things (part-time).
 
       - company: Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)
-        position: Technical Researcher
-        location: Bellaterra, Spain
+        position: Research Scientist
+        location: Barcelona, Spain
         start_date: 2025-04-01
         end_date: present
         summary: Applied research in social robotics, reinforcement learning, and advanced AI techniques.

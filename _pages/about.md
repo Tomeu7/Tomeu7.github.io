@@ -28,7 +28,7 @@ My research combines **reinforcement learning**, **computer vision**, **adaptive
 
 My current work focuses on social robotics for children with Autism Spectrum Disorder (ASD), developing perception systems for visual engagement, gesture recognition, and adaptive decision-making on real robots with limited resources (project [EMOROBCARE](https://www.iiia.csic.es/)).
 
-Previously, during my PhD, I developed reinforcement learning agents for real-time adaptive optics control, integrated into platforms such as [SCExAO](https://www.naoj.org/Projects/SCEXAO/) (Subaru Telescope), [CACAO](https://github.com/milk-org/cacao), and [COSMIC](https://lesia.obspm.fr/cosmic/).
+Previously, during my PhD, I developed reinforcement learning agents for real-time adaptive optics control, integrated into platforms such as [SCExAO](https://www.naoj.org/Projects/SCEXAO/) (Subaru Telescope), [CACAO](https://github.com/cacao-org), and [COSMIC](https://lesia.obspm.fr/Presentation-de-la-plateforme.html).
 
 **Research interests:** Reinforcement Learning · Social Robotics · Computer Vision · Vision-Language Models · Real-Time Control · Human-Robot Interaction
 
