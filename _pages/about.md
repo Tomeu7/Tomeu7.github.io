@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher · <a href="https://www.iiia.csic.es/">IIIA-CSIC</a> · <a href="https://www.eada.edu/">EADA Business School</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bellaterra, Barcelona, Spain</p>
+    <p>tom_93_mot@hotmail.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a researcher at the [Instituto de Investigación en Inteligencia Artificial (IIIA-CSIC)](https://www.iiia.csic.es/) and Associate Professor at [EADA Business School](https://www.eada.edu/). I hold dual PhDs in Artificial Intelligence (Universitat Politècnica de Catalunya, UPC) and Astronomy & Astrophysics (PSL — Observatoire de Paris), both awarded in October 2025.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research combines **reinforcement learning**, **computer vision**, **adaptive optics**, and **social robotics**, with a focus on autonomous systems that operate in real time under strong computational constraints. I have international experience at the [Subaru Telescope / NAOJ](https://subarutelescope.org/) (Hawaii, USA), the [Australian National University](https://www.anu.edu.au/) (Canberra), and the [Barcelona Supercomputing Center](https://www.bsc.es/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current work focuses on social robotics for children with Autism Spectrum Disorder (ASD), developing perception systems for visual engagement, gesture recognition, and adaptive decision-making on real robots with limited resources (project [EMOROBCARE](https://www.iiia.csic.es/)).
+
+Previously, during my PhD, I developed reinforcement learning agents for real-time adaptive optics control, integrated into platforms such as [SCExAO](https://www.naoj.org/Projects/SCEXAO/) (Subaru Telescope), [CACAO](https://github.com/milk-org/cacao), and [COSMIC](https://lesia.obspm.fr/cosmic/).
+
+**Research interests:** Reinforcement Learning · Social Robotics · Computer Vision · Vision-Language Models · Real-Time Control · Human-Robot Interaction
+
+**Google Scholar:** 150+ citations · h-index: 5 · i10-index: 4
