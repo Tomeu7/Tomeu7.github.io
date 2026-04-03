@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Researcher · <a href="https://www.iiia.csic.es/">IIIA-CSIC</a> · <a href="https://www.eada.edu/">EADA Business School</a>
 
@@ -26,7 +26,7 @@ I am a researcher at the [Instituto de Investigación en Inteligencia Artificial
 
 My research combines **reinforcement learning**, **computer vision**, **adaptive optics**, and **social robotics**, with a focus on autonomous systems that operate in real time under strong computational constraints. I have international experience at the [Subaru Telescope / NAOJ](https://subarutelescope.org/) (Hawaii, USA), the [Australian National University](https://www.anu.edu.au/) (Canberra), and the [Barcelona Supercomputing Center](https://www.bsc.es/).
 
-My current work focuses on social robotics for children with Autism Spectrum Disorder (ASD), developing perception systems for visual engagement, gesture recognition, and adaptive decision-making on real robots with limited resources (project [EMOROBCARE](https://www.iiia.csic.es/)).
+My current work focuses on social robotics for children with Autism Spectrum Disorder (ASD), developing perception systems for visual engagement, gesture recognition, and adaptive decision-making on real robots with limited resources (project EMOROBCARE).
 
 Previously, during my PhD, I developed reinforcement learning agents for real-time adaptive optics control, integrated into platforms such as [SCExAO](https://www.naoj.org/Projects/SCEXAO/) (Subaru Telescope), [CACAO](https://github.com/cacao-org), and [COSMIC](https://lesia.obspm.fr/Presentation-de-la-plateforme.html).
 
