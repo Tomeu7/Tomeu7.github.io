@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-17'
 papers:
   dYJC0tQAAAAJ:9yKSN-GCB0IC:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: Model-free reinforcement learning with a non-linear reconstructor for closed-loop adaptive optics control with a pyramid wavefront sensor
     year: '2022'
   dYJC0tQAAAAJ:LkGwnXOMwfcC:
-    citations: 0
+    citations: 1
     title: 'EMY: Supporting Autism Therapy with a Socially Assistive Robot'
     year: '2026'
   dYJC0tQAAAAJ:Tyk-4Ss8FVUC:
@@ -22,7 +22,7 @@ papers:
     title: Future-proof seamless real-time computing for AO with COSMIC
     year: '2024'
   dYJC0tQAAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 2
     title: 'EMOROBCARE: A Low-Cost Social Robot for Supporting Children with Autism in Therapeutic Settings'
     year: '2025'
   dYJC0tQAAAAJ:Y0pCki6q_DkC:
@@ -30,19 +30,19 @@ papers:
     title: Integrating deep neural networks with COSMIC for real-time control
     year: '2024'
   dYJC0tQAAAAJ:YsMSGLbcyi4C:
-    citations: 84
+    citations: 89
     title: Simplifying Deep Temporal Difference Learning
     year: '2024'
   dYJC0tQAAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: 'Real-Time Vision for Socially Aware Robots: Gesture, Pointing, and Visual Engagement Estimation'
     year: '2026'
   dYJC0tQAAAAJ:d1gkVwhDpl0C:
-    citations: 70
+    citations: 71
     title: Adaptive optics control with multi-agent model-free reinforcement learning
     year: '2022'
   dYJC0tQAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 6
     title: Simplifying deep temporal difference learning, 2024
     year: Unknown Year
   dYJC0tQAAAAJ:ufrVoPGSRksC:
